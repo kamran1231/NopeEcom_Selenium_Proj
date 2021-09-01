@@ -4,7 +4,7 @@ import configparser
 
 config = configparser.RawConfigParser()
 
-config.read(".\\Configurations\\config.ini")
+config.read("C:/Users/khanb/PycharmProjects/NOPECOM_PROJ/Configurations/config.ini")
 
 class ReadConfig:
 
